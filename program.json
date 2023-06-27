@@ -1,0 +1,10 @@
+{
+    "program": "enthusiastic.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpAQgrvJh5CxQtovsRXGoxZv94KJRhHA6c19wC8iVQcEqm",
+        "address": "aleo1gv8r6s5dnj9cmse33fxm9869fllvktwqc8wdd77eeyh7rty04qpqknkq4x"
+    },
+    "license": "MIT"
+}
